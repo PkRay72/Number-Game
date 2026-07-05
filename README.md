@@ -1,22 +1,9 @@
 # Number-Game
 
+
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * DecodeLabs Industrial Training Kit - Batch 2026
- * Project 1: Number Guessing Game
- *
- * Key Concepts: Random class, loops, conditionals, input handling
- * Features:
- *   - Random number generation (1–100) using java.util.Random
- *   - User input via java.util.Scanner
- *   - High/Low feedback loop
- *   - Attempt limiter (max 7 guesses per round)
- *   - Multiple rounds with Play Again prompt
- *   - Score tracking across rounds
- *   - Input validation (handles non-integer input gracefully)
- */
 public class DecodeLabs_Java_P1 {
 
     // ─── Constants ────────────────────────────────────────────────────────────
